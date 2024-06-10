@@ -1,1 +1,1 @@
-print("Bonjour tout le monde");
+print("Haters gonna hate, potatoes gonna potate");
