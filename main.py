@@ -1,1 +1,1 @@
-print("Yo la mif!");
+print("Haters gonna hate, potatoes gonna potate");
